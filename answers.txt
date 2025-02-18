@@ -12,3 +12,6 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Merging in Git is the process by which the histories of two branches are left untouched and the two branches are "tied" together at the end by combining changes from both branches. This preserves all timestamps about when branches/files were created, etc. providing a more complete history, but in the process making the history more complex.
 Rebasing on the other hand is where one branch is linearly tied into the other branch by placing all the commits in that branch after all commits in the other branch, which results in a linear history. In other words, each branch is placed in a single line, which results in a simpler history. On the other hand, the timestamps are changed and the version history is changed, which may sometimes be useful.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I want to learn the different APIs in python that can be used to do machine learning, and how they work exactly. I think I know some of the theory behind machine learning in my other classes, but now I want to see that theory put to practice in order to create functional machine learning models. I also hope to learn more about Git and how it works under the hood so I can use it in my own projects.
