@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science is particularly useful in analyzing large sums of data and extrapolating trends to inform future decisions. For instance, machine learning techniques are used to analyze tumors on the body and classify them as malignant or benign, which is useful in detecting certain types of cancer.
