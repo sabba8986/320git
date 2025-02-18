@@ -6,3 +6,9 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science is particularly useful in analyzing large sums of data and extrapolating trends to inform future decisions. For instance, machine learning techniques are used to analyze tumors on the body and classify them as malignant or benign, which is useful in detecting certain types of cancer.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging in Git is the process by which the histories of two branches are left untouched and the two branches are "tied" together at the end by combining changes from both branches. This preserves all timestamps about when branches/files were created, etc. providing a more complete history, but in the process making the history more complex.
+Rebasing on the other hand is where one branch is linearly tied into the other branch by placing all the commits in that branch after all commits in the other branch, which results in a linear history. In other words, each branch is placed in a single line, which results in a simpler history. On the other hand, the timestamps are changed and the version history is changed, which may sometimes be useful.
+
